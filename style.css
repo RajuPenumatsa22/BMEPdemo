@@ -1,0 +1,139 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+#nav-bar{
+    background-color: #AA4465;
+    height: 60px;
+    padding-top: 20px;
+}
+#nav-links{
+    margin-left: 220px;
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+}
+#home-footer{
+    background-color: #92D5E6;
+    height: 400px;
+}
+#foot-matter{
+    text-align: end;
+    font-weight: bold;
+    font-size:25px ;
+    padding-top: 10%;
+    padding-right: 50px;
+}
+#welcome{
+    padding-top: 40px;
+    font-size: 100px;
+    color: rgb(255, 111, 0);
+    font-family: fantasy;
+    margin-left: -0px;
+    font-family:fantasy;
+}
+#quote{
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    color: rgb(33, 172, 14);
+    font-weight: 500;
+    font-family:fantasy;
+}
+#nit{
+    padding-left: 40px;
+    margin-top: -220px;
+}
+#content{
+    background-image: url(https://give.do/blog/wp-content/uploads/2023/09/Smile-Foundation-transforming-lives-through-civic-driven-change-scaled.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: darken;
+}
+#logo{
+    padding-left: 8%;
+    padding-top: 4%;
+}
+#nitdgp{
+    padding-left: 30px
+}
+#contact-head{
+    background-color:#DBC2CF ;
+    height: 100px;
+}
+#contact-us{
+    font-weight: 50px;
+    color: #580791;
+    text-align: center;
+    padding-top: 30px;
+}
+#contact-content{
+    text-align: center;
+    background-color: #D3F6DB;
+}
+.headings{
+    color:#004D25 ;
+    font-size: 40px;
+}
+#name{
+    background-color: #E8FAE8;
+    text-align: center;
+    width: 190px;
+}
+#feedback{
+    background-color: #E8FAE8;
+    text-align: center;
+    width: 190px;
+    border-style: solid;
+    border-width: 4px;
+}
+#submit{
+    border-radius: 30%;
+    height: 30px;
+    width: 80px;
+    color: #004D25;
+    background-color: #E8FAE8;
+}
+.img{
+    background-image: url("bmep.png");
+    background-size: cover;
+    width:200px;
+    height:200px;
+    margin-top:-220px;
+}
+#details{
+    color: rgb(57, 27, 177);
+    font-size: 30px;
+    font-weight: 400;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#about-content{
+    background-color:#E8FAE8 ;
+    height: 800px;
+}
+#about-heading{
+    font-size: 40px;
+    text-align: center;
+    color: #580791;
+}
+#team-content{
+    background-color:#E8FAE8  ;
+    height: 800px;
+}
+#team-heading{
+    color: #6a0c2a;
+    text-align: center;
+    font-size: 40px;
+}
+#list{
+    color: rgb(57, 27, 177);
+    font-size: 30px;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
